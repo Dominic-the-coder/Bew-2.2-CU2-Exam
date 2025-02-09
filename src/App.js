@@ -1,6 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
-
 import Dogs from "./pages/Dogs";
 import Cats from "./pages/Cats";
 import SmallAnimals from "./pages/SmallAnimals";
